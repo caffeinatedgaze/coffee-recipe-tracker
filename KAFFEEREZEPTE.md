@@ -66,9 +66,9 @@ No entries yet.
 - Water temp: 93 C
 - Method: Aeropress
 - Timing: steep 1 minute 45 seconds; press 25 seconds
-- Tasting notes: unknown
-- Outcome: brewed and waiting on tasting feedback
-- Next adjustment: after tasting, keep the same setup if it is balanced; if it feels thin, go slightly finer for more body and sweetness; if it feels heavy, back off one click for more clarity
+- Tasting notes: "acidic with a well-defined body, but not overboard; not tasting plum"
+- Outcome: clean acidity, solid structure, plum note not yet showing
+- Next adjustment: keep Opus 4 but extend the steep 10-15 seconds to push sweetness and fruit clarity, especially plum, without adding much heaviness
 - Related entries: 2026-07-31 - Brew Result
 
 ## Pattern Notes
