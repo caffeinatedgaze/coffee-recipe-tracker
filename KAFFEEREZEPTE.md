@@ -12,17 +12,41 @@ Working tracker for coffee recipes and brew results.
 
 ## Entry Template
 
-| Date | Recipe or Result Name | Source | Type | Recipe name | Bean | Grind | Ratio | Water temp | Method | Timing | Tasting notes | Outcome | Next adjustment | Related entries |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| YYYY-MM-DD | Recipe or Result Name | Telegram topic `Kaffeerezepte` / manual handoff | recipe \| result \| adjustment | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | none |
+### YYYY-MM-DD - Recipe or Result Name
+
+- Source: Telegram topic `Kaffeerezepte` / manual handoff
+- Type: recipe | result | adjustment
+- Recipe name: unknown
+- Bean: unknown
+- Grind: unknown
+- Ratio: unknown
+- Water temp: unknown
+- Method: unknown
+- Timing: unknown
+- Tasting notes: unknown
+- Outcome: unknown
+- Next adjustment: unknown
+- Related entries: none
 
 ## Entries
 
 No entries yet.
 
-| Date | Recipe or Result Name | Source | Type | Recipe name | Bean | Grind | Ratio | Water temp | Method | Timing | Tasting notes | Outcome | Next adjustment | Related entries |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2026-07-31 | Brew Result | Telegram topic `Kaffeerezepte` / voice transcript | result | unknown | The Barn - Ivan dos Santos Typica | Opus grinder setting 4 | unknown | 93 C | press method | steep 2 minutes; press for 20 seconds | "taste quite clear but still fairly boring. Although, nice." | clear, pleasant, but a bit boring | unknown | none |
+### 2026-07-31 - Brew Result
+
+- Source: Telegram topic `Kaffeerezepte` / voice transcript
+- Type: result
+- Recipe name: unknown
+- Bean: The Barn - Ivan dos Santos Typica
+- Grind: Opus grinder setting 4
+- Ratio: unknown
+- Water temp: 93 C
+- Method: press method
+- Timing: steep 2 minutes; press for 20 seconds
+- Tasting notes: "taste quite clear but still fairly boring. Although, nice."
+- Outcome: clear, pleasant, but a bit boring
+- Next adjustment: unknown
+- Related entries: none
 
 ## Pattern Notes
 
