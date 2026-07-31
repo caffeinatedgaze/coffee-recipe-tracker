@@ -8,6 +8,7 @@ Working tracker for coffee recipes and brew results.
 - Keep unknown fields as `unknown`; do not invent details.
 - Preserve the user's wording for tasting notes when useful, then add a short normalized outcome.
 - If a post updates a prior recipe, add a new dated result and cross-reference the recipe name.
+- Always include a next adjustment recommendation from me first; if the user suggests one, keep it as optional secondary context instead of replacing mine.
 - On request, summarize patterns across bean, grind, ratio, water temp, method, timing, tasting notes, and outcomes.
 
 ## Entry Template
@@ -45,7 +46,7 @@ No entries yet.
 - Timing: steep 2 minutes; press for 20 seconds
 - Tasting notes: "taste quite clear but still fairly boring. Although, nice."
 - Outcome: clear, pleasant, but a bit boring
-- Next adjustment: unknown
+- Next adjustment: try a slightly finer grind or extend the steep a little, then change only one variable on the next brew
 - Related entries: none
 
 ## Pattern Notes
