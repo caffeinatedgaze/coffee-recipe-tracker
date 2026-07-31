@@ -55,6 +55,22 @@ No entries yet.
 - Next adjustment: try a slightly finer grind or extend the steep a little, then change only one variable on the next brew
 - Related entries: none
 
+### 2026-07-31 - Aeropress Recipe
+
+- Source: Telegram topic `Kaffeerezepte` / voice transcript
+- Type: recipe
+- Recipe name: unknown
+- Bean: Brazilian beans
+- Grind: Opus grinder setting 4
+- Ratio: 12 g coffee to unknown water
+- Water temp: 93 C
+- Method: Aeropress
+- Timing: steep 1 minute 45 seconds; press 25 seconds
+- Tasting notes: unknown
+- Outcome: brewed and waiting on tasting feedback
+- Next adjustment: after tasting, keep the same setup if it is balanced; if it feels thin, go slightly finer for more body and sweetness; if it feels heavy, back off one click for more clarity
+- Related entries: 2026-07-31 - Brew Result
+
 ## Pattern Notes
 
-- One brew result captured.
+- Two brew entries captured.
