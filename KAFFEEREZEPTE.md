@@ -11,6 +11,12 @@ Working tracker for coffee recipes and brew results.
 - Always include a next adjustment recommendation from me first; if the user suggests one, keep it as optional secondary context instead of replacing mine.
 - On request, summarize patterns across bean, grind, ratio, water temp, method, timing, tasting notes, and outcomes.
 
+## Preference Profile
+
+- Default target: clear cup with strong body, but not heavy.
+- Keep coffee names and package-label wording distinct and exact in the log.
+- If the label has origin, varietal, or process details, preserve them separately instead of collapsing them into one name.
+
 ## Entry Template
 
 ### YYYY-MM-DD - Recipe or Result Name
