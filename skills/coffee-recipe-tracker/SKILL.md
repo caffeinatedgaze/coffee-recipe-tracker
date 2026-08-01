@@ -12,7 +12,7 @@ description: Track and tune coffee brew recipes and tasting notes. Use when a us
 3. Change one variable at a time unless the user explicitly asks for a bigger jump.
 4. After each tasting note, infer the next smallest tweak.
 5. If the user says to note it down and wait, acknowledge briefly and stop suggesting changes.
-6. After each update, persist the current state in the repo so the latest recipe and conclusion are recorded.
+6. After each update, persist the current state in the repo, commit it, and push it so the latest recipe and conclusion are recorded.
 
 ## Recipe Capture
 
@@ -47,4 +47,4 @@ For washed, fruity coffees, prefer clarity over body: lighter extraction, no unn
 - Show the current recipe first, then one next tweak.
 - Avoid recommending multiple variables unless the user asks for a full reset.
 - Mirror the user's language when they are clearly using a brewing workflow.
-- Keep the repo state current whenever the recipe changes.
+- Keep the repo state current and push it whenever the recipe changes.

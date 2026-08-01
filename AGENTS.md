@@ -50,7 +50,7 @@ Capture what matters. Decisions, context, things to remember. Skip the secrets u
 - When the human is iterating on a coffee recipe, normalize the latest audio into a clean recipe note and keep only one variable moving at a time.
 - If the human says to note it down and wait for the conclusion, acknowledge briefly and do not suggest a new tweak until they come back with the result.
 - Prefer concise recipe bullets over prose when the thread is about brew tuning.
-- On every coffee update, write the new state into the repo so the transcript, note, and current recipe stay in sync.
+- On every coffee update, write the new state into the repo, commit it, and push it so the transcript, note, and current recipe stay in sync.
 
 ## Red Lines
 
