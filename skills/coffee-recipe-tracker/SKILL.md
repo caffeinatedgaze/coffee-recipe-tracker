@@ -11,8 +11,8 @@ description: Track and tune coffee brew recipes and tasting notes. Use when a us
 2. Preserve the current recipe as the working baseline.
 3. Change one variable at a time unless the user explicitly asks for a bigger jump.
 4. After each tasting note, infer the next smallest tweak.
-5. If the user says to note it down and wait, acknowledge briefly and stop suggesting changes.
-6. After each update, persist the current state in the repo, commit it, and push it so the latest recipe and conclusion are recorded.
+ 5. If the user says to note it down and wait, acknowledge briefly and stop suggesting changes.
+ 6. After each update, persist the current state in the repo, commit it, and push it so the latest recipe and conclusion are recorded.
 
 ## Recipe Capture
 
@@ -38,6 +38,8 @@ Translate common feedback into the next adjustment:
 - sour or under-extracted: finer, hotter, or longer
 - thin: slightly more dose or less water
 - fruit not showing: favor lower temperature, shorter steep, and cleaner extraction
+
+For Aeropress, default to the mini portable version if that is what the user is using, and cap water at 150 g unless the user says otherwise.
 
 For washed, fruity coffees, prefer clarity over body: lighter extraction, no unnecessary stirring, and conservative changes.
 
