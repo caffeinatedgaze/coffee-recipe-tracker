@@ -14,6 +14,7 @@ description: Track and tune coffee brew recipes and tasting notes. Use when a us
 5. If the user says to note it down and wait, acknowledge briefly and stop suggesting changes.
 6. After each update, persist the current state in the repo, commit it, and push it so the latest recipe and conclusion are recorded.
 7. If the user is still talking about the same brew, update the existing session entry in place instead of creating a new coffee entry.
+8. If the user names a favorite or preferred recipe, mark it as highlighted in the log and keep that recipe easy to find.
 
 ## Recipe Capture
 
