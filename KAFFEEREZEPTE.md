@@ -46,17 +46,17 @@ No entries yet.
 ### 2026-08-02 - The Barn - Ivan dos Santos Typica Session
 
 - Source: Telegram topic `Kaffeerezepte` / voice transcript + image
-- Timestamp: 2026-08-02 08:21-08:44 local
+- Timestamp: 2026-08-02 08:21-12:00 local
 - Type: recipe/result
 - Recipe name: The Barn - Ivan dos Santos Typica
 - Bean: The Barn - Ivan dos Santos Typica
-- Grind: Opus grinder setting 3.5 to 4, then 3.5
+- Grind: Opus grinder setting 3.5 to 4, then 3.5 exactly
 - Ratio: 12 g coffee to up to 150 g water in the mini Aeropress
 - Water temp: 93 C, then 92 C
 - Method: mini portable Aeropress
-- Timing: 1 minute 50 seconds steep; 20 to 25 seconds press, then 30 seconds press
+- Timing: 1 minute 50 seconds steep; 20 to 25 seconds press, then 30 seconds press; gentle swirl at the beginning
 - Tasting notes: plum, vanilla, smooth; very stable, smooth, pleasant, no plum
-- Outcome: one coffee session; smooth and stable, but the plum note still did not show
+- Outcome: one coffee session; smooth and stable, but the plum note still did not show; latest setup keeps volume down and uses the exact mini Aeropress recipe
 - Next adjustment: go 1 click finer on the Opus and keep everything else the same
 - Related entries: 2026-07-31 - Brew Result
 
