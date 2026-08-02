@@ -36,6 +36,7 @@ Working tracker for coffee recipes and brew results.
 - Tasting notes: unknown
 - Outcome: unknown
 - Next adjustment: unknown
+- Highlight: no
 - Related entries: none
 
 ## Entries
@@ -89,6 +90,7 @@ No entries yet.
 - Tasting notes: "acidic with a well-defined body, but not overboard; not tasting plum"
 - Outcome: clean acidity, solid structure, plum note not yet showing
 - Next adjustment: keep Opus 4 but extend the steep 10-15 seconds to push sweetness and fruit clarity, especially plum, without adding much heaviness
+- Highlight: yes
 - Related entries: 2026-07-31 - Brew Result
 
 ## Pattern Notes
