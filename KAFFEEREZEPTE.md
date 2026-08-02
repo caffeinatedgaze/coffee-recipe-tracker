@@ -14,7 +14,8 @@ Working tracker for coffee recipes and brew results.
 ## Preference Profile
 
 - Default target: clear cup with strong body, but not heavy.
-- Default brew method: Aeropress unless stated otherwise.
+- Default brew method: mini portable Aeropress unless stated otherwise.
+- Aeropress water cap: 150 g unless the user says otherwise.
 - Keep coffee names and package-label wording distinct and exact in the log.
 - If the label has origin, varietal, or process details, preserve them separately instead of collapsing them into one name.
 
@@ -72,6 +73,22 @@ No entries yet.
 - Next adjustment: wait for the result before changing anything
 - Related entries: 2026-07-31 - Aeropress Recipe
 
+### 2026-08-02 - Mini Aeropress Update
+
+- Source: Telegram topic `Kaffeerezepte` / voice transcript
+- Type: adjustment
+- Recipe name: The Barn - Ivan dos Santos Typica
+- Bean: The Barn - Ivan dos Santos Typica
+- Grind: Opus grinder setting 3.5
+- Ratio: 12 g coffee to unknown water, capped at 150 g in the mini Aeropress
+- Water temp: 92 C
+- Method: mini portable Aeropress
+- Timing: 1 minute 50 seconds steep; 30 seconds press
+- Tasting notes: "Those 12 grubbed."
+- Outcome: slightly cooler and slower-press version of the Aeropress recipe, tuned for the mini brewer
+- Next adjustment: hold this version unless the cup comes back thin, flat, or bitter
+- Related entries: 2026-08-02 - Aeropress Recipe Suggestion
+
 ### 2026-07-31 - Brew Result
 
 - Source: Telegram topic `Kaffeerezepte` / voice transcript
@@ -106,4 +123,4 @@ No entries yet.
 
 ## Pattern Notes
 
-- Two brew entries captured.
+- Three brew entries captured.
