@@ -89,6 +89,22 @@ No entries yet.
 - Next adjustment: hold this version unless the cup comes back thin, flat, or bitter
 - Related entries: 2026-08-02 - Aeropress Recipe Suggestion
 
+### 2026-08-02 - Mini Aeropress Result
+
+- Source: Telegram topic `Kaffeerezepte` / voice transcript
+- Type: result
+- Recipe name: The Barn - Ivan dos Santos Typica
+- Bean: The Barn - Ivan dos Santos Typica
+- Grind: Opus grinder setting 3.5
+- Ratio: 12 g coffee to unknown water, capped at 150 g in the mini Aeropress
+- Water temp: 92 C
+- Method: mini portable Aeropress
+- Timing: 1 minute 50 seconds steep; 30 seconds press
+- Tasting notes: very stable, smooth, pleasant, no plum
+- Outcome: balanced and easy-drinking, but the fruit note still is not showing
+- Next adjustment: go 1 click finer on the Opus and keep the rest the same
+- Related entries: 2026-08-02 - Mini Aeropress Update
+
 ### 2026-07-31 - Brew Result
 
 - Source: Telegram topic `Kaffeerezepte` / voice transcript
@@ -123,4 +139,4 @@ No entries yet.
 
 ## Pattern Notes
 
-- Three brew entries captured.
+- Four brew entries captured.
