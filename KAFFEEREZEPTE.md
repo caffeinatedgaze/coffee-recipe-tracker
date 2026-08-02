@@ -14,6 +14,7 @@ Working tracker for coffee recipes and brew results.
 ## Preference Profile
 
 - Default target: clear cup with strong body, but not heavy.
+- Default brew method: Aeropress unless stated otherwise.
 - Keep coffee names and package-label wording distinct and exact in the log.
 - If the label has origin, varietal, or process details, preserve them separately instead of collapsing them into one name.
 
