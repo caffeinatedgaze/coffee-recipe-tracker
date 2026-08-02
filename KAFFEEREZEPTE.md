@@ -39,6 +39,22 @@ Working tracker for coffee recipes and brew results.
 
 No entries yet.
 
+### 2026-08-02 - Aeropress In Progress
+
+- Source: Telegram topic `Kaffeerezepte` / voice transcript
+- Type: adjustment
+- Recipe name: unknown
+- Bean: unknown
+- Grind: unknown
+- Ratio: unknown
+- Water temp: unknown
+- Method: Aeropress
+- Timing: unknown
+- Tasting notes: "I'm making eye repress."
+- Outcome: brew in progress
+- Next adjustment: wait for the result before changing anything
+- Related entries: 2026-07-31 - Aeropress Recipe
+
 ### 2026-07-31 - Brew Result
 
 - Source: Telegram topic `Kaffeerezepte` / voice transcript
