@@ -24,6 +24,7 @@ Working tracker for coffee recipes and brew results.
 ### YYYY-MM-DD - Recipe or Result Name
 
 - Source: Telegram topic `Kaffeerezepte` / manual handoff
+- Timestamp: YYYY-MM-DD HH:MM local
 - Type: recipe | result | adjustment
 - Recipe name: unknown
 - Bean: unknown
@@ -44,6 +45,7 @@ No entries yet.
 ### 2026-08-02 - Aeropress Recipe Suggestion
 
 - Source: Telegram topic `Kaffeerezepte` / voice transcript + image
+- Timestamp: 2026-08-02 08:21
 - Type: recipe
 - Recipe name: The Barn - Ivan dos Santos Typica
 - Bean: The Barn - Ivan dos Santos Typica
@@ -60,6 +62,7 @@ No entries yet.
 ### 2026-08-02 - Aeropress In Progress
 
 - Source: Telegram topic `Kaffeerezepte` / voice transcript
+- Timestamp: 2026-08-02 08:22
 - Type: adjustment
 - Recipe name: unknown
 - Bean: unknown
@@ -76,6 +79,7 @@ No entries yet.
 ### 2026-08-02 - Mini Aeropress Update
 
 - Source: Telegram topic `Kaffeerezepte` / voice transcript
+- Timestamp: 2026-08-02 08:39
 - Type: adjustment
 - Recipe name: The Barn - Ivan dos Santos Typica
 - Bean: The Barn - Ivan dos Santos Typica
@@ -92,6 +96,7 @@ No entries yet.
 ### 2026-08-02 - Mini Aeropress Result
 
 - Source: Telegram topic `Kaffeerezepte` / voice transcript
+- Timestamp: 2026-08-02 08:44
 - Type: result
 - Recipe name: The Barn - Ivan dos Santos Typica
 - Bean: The Barn - Ivan dos Santos Typica
