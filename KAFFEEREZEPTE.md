@@ -40,6 +40,22 @@ Working tracker for coffee recipes and brew results.
 
 No entries yet.
 
+### 2026-08-02 - Aeropress Recipe Suggestion
+
+- Source: Telegram topic `Kaffeerezepte` / voice transcript + image
+- Type: recipe
+- Recipe name: The Barn - Ivan dos Santos Typica
+- Bean: The Barn - Ivan dos Santos Typica
+- Grind: Opus grinder setting 3.5 to 4
+- Ratio: 12 g coffee to 200 g water
+- Water temp: 93 C
+- Method: Aeropress
+- Timing: 1 minute 50 seconds steep; 20 to 25 seconds press
+- Tasting notes: plum, vanilla, smooth
+- Outcome: aiming for a clear, sweet cup with a little more fruit than the last brew
+- Next adjustment: if it still feels flat, go 1 click finer before changing dose
+- Related entries: 2026-07-31 - Brew Result
+
 ### 2026-08-02 - Aeropress In Progress
 
 - Source: Telegram topic `Kaffeerezepte` / voice transcript
