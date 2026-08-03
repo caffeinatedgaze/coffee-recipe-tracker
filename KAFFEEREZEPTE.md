@@ -61,6 +61,24 @@ No entries yet.
 - Highlight: yes
 - Related entries: 2026-08-02 - The Barn - Ivan dos Santos Typica Session
 
+### 2026-08-03 - Brazilian Beans Aeropress Update
+
+- Source: Telegram topic `Kaffeerezepte` / voice transcript
+- Timestamp: 2026-08-03 12:39 local
+- Type: adjustment
+- Recipe name: Brazilian beans Aeropress
+- Bean: Brazilian beans
+- Grind: Opus grinder setting 3.5
+- Ratio: 12 g coffee to 140 g water
+- Water temp: 90 C
+- Method: mini portable Aeropress
+- Timing: 2:05 steep; 25 seconds press; no swirl
+- Tasting notes: unknown
+- Outcome: updated working recipe for the Brazilian beans
+- Next adjustment: keep this as the baseline until the next tasting
+- Highlight: no
+- Related entries: 2026-07-31 - Aeropress Recipe; 2026-07-31 - Brew Result
+
 ### 2026-08-02 - The Barn - Ivan dos Santos Typica Session
 
 - Source: Telegram topic `Kaffeerezepte` / voice transcript + image
