@@ -50,7 +50,7 @@ No entries yet.
 - Type: recipe/result
 - Recipe name: unknown
 - Bean: unknown
-- Grind: Opus grinder setting 3.25
+- Grind: Opus grinder setting 3.4
 - Ratio: 12 g coffee to 150 g water
 - Water temp: 93 C
 - Method: mini portable Aeropress
@@ -68,7 +68,7 @@ No entries yet.
 - Type: recipe/result
 - Recipe name: The Barn - Ivan dos Santos Typica
 - Bean: The Barn - Ivan dos Santos Typica
-- Grind: Opus grinder setting 3.5 to 4, then 3.5 exactly, then 3.25
+- Grind: Opus grinder setting 3.5 to 4, then 3.5 exactly, then 3.4
 - Ratio: 12 g coffee to up to 150 g water in the mini Aeropress
 - Water temp: 93 C, then 92 C
 - Method: mini portable Aeropress
