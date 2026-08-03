@@ -43,6 +43,24 @@ Working tracker for coffee recipes and brew results.
 
 No entries yet.
 
+### 2026-08-03 - Aeropress Recipe Update
+
+- Source: Telegram topic `Kaffeerezepte` / voice transcript
+- Timestamp: 2026-08-03 07:52 local
+- Type: recipe
+- Recipe name: unknown
+- Bean: unknown
+- Grind: Opus grinder setting 3.25
+- Ratio: 12 g coffee to 150 g water
+- Water temp: 93 C
+- Method: mini portable Aeropress
+- Timing: 1 minute 50 seconds steep; 25 seconds press
+- Tasting notes: unknown
+- Outcome: recipe captured from voice note; no brew result yet
+- Next adjustment: add one gentle swirl before the steep ends to improve even extraction and sweetness
+- Highlight: no
+- Related entries: 2026-08-02 - The Barn - Ivan dos Santos Typica Session
+
 ### 2026-08-02 - The Barn - Ivan dos Santos Typica Session
 
 - Source: Telegram topic `Kaffeerezepte` / voice transcript + image
