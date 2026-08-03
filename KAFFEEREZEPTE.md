@@ -81,7 +81,7 @@ No entries yet.
 
 ### 2026-08-03 - Colombia Pacamara Base Recipe
 
-- Source: Telegram topic `Kaffeerezepte` / voice transcript
+- Source: Telegram topic `Kaffeerezepte` / voice transcript + image
 - Timestamp: 2026-08-03 16:01 local
 - Type: recipe
 - Recipe name: Colombia Pacamara
