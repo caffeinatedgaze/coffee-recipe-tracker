@@ -47,7 +47,7 @@ No entries yet.
 
 - Source: Telegram topic `Kaffeerezepte` / voice transcript
 - Timestamp: 2026-08-03 07:52 local
-- Type: recipe
+- Type: recipe/result
 - Recipe name: unknown
 - Bean: unknown
 - Grind: Opus grinder setting 3.25
@@ -55,10 +55,10 @@ No entries yet.
 - Water temp: 93 C
 - Method: mini portable Aeropress
 - Timing: 1 minute 50 seconds steep; 25 seconds press
-- Tasting notes: unknown
-- Outcome: recipe captured from voice note; no brew result yet
-- Next adjustment: add one gentle swirl before the steep ends to improve even extraction and sweetness
-- Highlight: no
+- Tasting notes: "this is a very smooth coffee. A little floral, a little fruity. Almost no bitterness in the aftertaste."
+- Outcome: very smooth cup with light floral and fruity notes, and almost no aftertaste bitterness
+- Next adjustment: keep this recipe as-is for these beans to preserve the smoothness and low bitterness
+- Highlight: yes
 - Related entries: 2026-08-02 - The Barn - Ivan dos Santos Typica Session
 
 ### 2026-08-02 - The Barn - Ivan dos Santos Typica Session
