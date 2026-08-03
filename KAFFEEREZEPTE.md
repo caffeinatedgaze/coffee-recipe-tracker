@@ -97,6 +97,24 @@ No entries yet.
 - Highlight: no
 - Related entries: 2026-08-03 - Aeropress Recipe Update
 
+### 2026-08-03 - Colombia Pacamara Brew Result
+
+- Source: Telegram topic `Kaffeerezepte` / voice transcript
+- Timestamp: 2026-08-03 16:05 local
+- Type: result
+- Recipe name: Colombia Pacamara
+- Bean: Colombia Pacamara; natural process; light roast; roast date 2026-07-18
+- Grind: Opus grinder setting 3.25
+- Ratio: 12 g coffee to 150 g water
+- Water temp: 93 C
+- Method: mini portable Aeropress
+- Timing: 1:50 steep; 25 seconds press
+- Tasting notes: "slightly over-extracted"
+- Outcome: the cup came through a bit too far on extraction
+- Next adjustment: go 1 click coarser on the Opus, then keep the rest the same to see if the cup stays bright but loses the excess extraction
+- Highlight: no
+- Related entries: 2026-08-03 - Colombia Pacamara Base Recipe
+
 ### 2026-08-02 - The Barn - Ivan dos Santos Typica Session
 
 - Source: Telegram topic `Kaffeerezepte` / voice transcript + image
