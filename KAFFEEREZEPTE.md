@@ -122,6 +122,7 @@ No entries yet.
 - Type: recipe/result
 - Recipe name: The Barn - Ivan dos Santos Typica
 - Bean: The Barn - Ivan dos Santos Typica
+- Image notes: bag photo shows The Barn label, Ivan dos Santos Typica, São Paulo, Brazil, Typica, Natural, and the package notes "plum. vanilla. smooth."; filter, 250g
 - Grind: Opus grinder setting 3.5 to 4, then 3.5 exactly, then 3.4
 - Ratio: 12 g coffee to up to 150 g water in the mini Aeropress
 - Water temp: 93 C, then 92 C
