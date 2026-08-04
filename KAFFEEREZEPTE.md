@@ -43,6 +43,24 @@ Working tracker for coffee recipes and brew results.
 
 No entries yet.
 
+### 2026-08-04 - The Barn - Kayon Mountain Recipe
+
+- Source: Telegram topic `Kaffeerezepte` / image
+- Timestamp: 2026-08-04 15:38 local
+- Type: recipe
+- Recipe name: The Barn - Kayon Mountain
+- Bean: The Barn; Kayon Mountain; Guji, Ethiopia; mixed heirloom; washed
+- Grind: Opus grinder setting 3.5
+- Ratio: 12 g coffee to 150 g water
+- Water temp: 92 C
+- Method: mini portable Aeropress
+- Timing: 1:45 steep; 25 seconds press
+- Tasting notes: peach, iced tea, floral
+- Outcome: first-pass recipe for a washed Ethiopian with bright fruit and floral character
+- Next adjustment: brew this as-is first, then if it feels too thin add 10 seconds on the steep to build sweetness and body while keeping the florals lifted
+- Highlight: no
+- Related entries: none
+
 ### 2026-08-03 - Aeropress Recipe Update
 
 - Source: Telegram topic `Kaffeerezepte` / voice transcript
