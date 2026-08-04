@@ -115,6 +115,24 @@ No entries yet.
 - Highlight: no
 - Related entries: 2026-08-03 - Colombia Pacamara Base Recipe
 
+### 2026-08-04 - SOUTH - Colombia Pacamara Next Adjustment
+
+- Source: Telegram topic `Kaffeerezepte` / image + voice transcript
+- Timestamp: 2026-08-04 12:45 local
+- Type: adjustment
+- Recipe name: SOUTH - Colombia Pacamara
+- Bean: SOUTH - Colombia Pacamara; Colombia; Pacamara; natural process; light roast; roast date 2026-07-18
+- Grind: Opus grinder setting 3.25, then 1 click coarser next time
+- Ratio: 12 g coffee to 150 g water
+- Water temp: 93 C
+- Method: mini portable Aeropress
+- Timing: 1:50 steep; 25 seconds press
+- Tasting notes: unknown
+- Outcome: plan to reduce extraction and bitterness while keeping the cup clear
+- Next adjustment: go 1 click coarser on the Opus to soften bitterness and back off the over-extracted edge
+- Highlight: no
+- Related entries: 2026-08-03 - Colombia Pacamara Brew Result; 2026-08-03 - Colombia Pacamara Base Recipe
+
 ### 2026-07-31 - Brew Result
 
 - Source: Telegram topic `Kaffeerezepte` / voice transcript
