@@ -43,6 +43,25 @@ Working tracker for coffee recipes and brew results.
 
 No entries yet.
 
+### 2026-08-04 - The Barn - Kayon Mountain Result
+
+- Source: Telegram topic `Kaffeerezepte` / voice transcript
+- Timestamp: 2026-08-04 15:39 local
+- Type: result
+- Recipe name: The Barn - Kayon Mountain
+- Bean: The Barn; Kayon Mountain; Guji, Ethiopia; mixed heirloom; washed
+- Grind: Opus grinder setting 3.5
+- Ratio: 12 g coffee to 150 g water
+- Water temp: 92 C
+- Method: mini portable Aeropress
+- Timing: 1:50 steep; 25 seconds press
+- Stirring: none
+- Tasting notes: a little over-extracted, a bit too strong, bitter
+- Outcome: cup is slightly over-extracted
+- Next adjustment: increase grind size one click on the Opus next time; keep everything else the same
+- Highlight: no
+- Related entries: 2026-08-04 - The Barn - Kayon Mountain Recipe
+
 ### 2026-08-04 - The Barn - Kayon Mountain Recipe
 
 - Source: Telegram topic `Kaffeerezepte` / image
@@ -58,7 +77,7 @@ No entries yet.
 - Stirring: none
 - Tasting notes: peach, iced tea, floral
 - Outcome: first-pass recipe for a washed Ethiopian with bright fruit and floral character
-- Next adjustment: brew this as-is first, then if it feels too thin add 10 seconds on the steep to build sweetness and body while keeping the florals lifted
+- Next adjustment: increase grind size one click on the Opus next time; keep everything else the same
 - Highlight: no
 - Related entries: none
 
