@@ -54,7 +54,8 @@ No entries yet.
 - Ratio: 12 g coffee to 150 g water
 - Water temp: 92 C
 - Method: mini portable Aeropress
-- Timing: 1:45 steep; 25 seconds press
+- Timing: 1:50 steep; 25 seconds press
+- Stirring: none
 - Tasting notes: peach, iced tea, floral
 - Outcome: first-pass recipe for a washed Ethiopian with bright fruit and floral character
 - Next adjustment: brew this as-is first, then if it feels too thin add 10 seconds on the steep to build sweetness and body while keeping the florals lifted
