@@ -43,6 +43,25 @@ Working tracker for coffee recipes and brew results.
 
 No entries yet.
 
+### 2026-08-05 - The Barn - Ivan dos Santos Typica Recipe
+
+- Source: Telegram topic `Kaffeerezepte` / image
+- Timestamp: 2026-08-05 07:46 local
+- Type: recipe
+- Recipe name: The Barn - Ivan dos Santos Typica
+- Bean: The Barn; Ivan dos Santos Typica; São Paulo, Brazil; Typica; natural
+- Grind: Opus grinder setting 3.4
+- Ratio: 12 g coffee to 150 g water
+- Water temp: 93 C
+- Method: mini portable Aeropress
+- Timing: 1:50 steep; 25 seconds press
+- Stirring: none
+- Tasting notes: plum, vanilla, smooth
+- Outcome: first-pass recipe for a Brazilian natural with smooth sweetness and fruit
+- Next adjustment: if the cup feels too soft, go 1 click finer on the Opus next time to pull more plum and body without losing the smooth finish
+- Highlight: no
+- Related entries: 2026-08-03 - Aeropress Recipe Update; 2026-07-31 - Brew Result
+
 ### 2026-08-04 - The Barn - Kayon Mountain Result
 
 - Source: Telegram topic `Kaffeerezepte` / voice transcript
