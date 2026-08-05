@@ -50,7 +50,7 @@ No entries yet.
 - Type: adjustment
 - Recipe name: The Barn - Ivan dos Santos Typica
 - Bean: The Barn; Ivan dos Santos Typica; São Paulo, Brazil; Typica; natural
-- Grind: grain size 378.5
+- Grind: Opus grinder setting 3.75
 - Ratio: 12 g coffee to 150 g water
 - Water temp: 92 C
 - Method: mini portable Aeropress
@@ -69,7 +69,7 @@ No entries yet.
 - Type: adjustment
 - Recipe name: The Barn - Ivan dos Santos Typica
 - Bean: The Barn; Ivan dos Santos Typica; São Paulo, Brazil; Typica; natural
-- Grind: grain size 378.5
+- Grind: Opus grinder setting 3.75
 - Ratio: 12 g coffee to 150 g water
 - Water temp: 92 C
 - Method: mini portable Aeropress
