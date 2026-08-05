@@ -43,6 +43,25 @@ Working tracker for coffee recipes and brew results.
 
 No entries yet.
 
+### 2026-08-05 - The Barn - Ivan dos Santos Typica Adjustment
+
+- Source: Telegram topic `Kaffeerezepte` / voice transcript
+- Timestamp: 2026-08-05 07:52 local
+- Type: adjustment
+- Recipe name: The Barn - Ivan dos Santos Typica
+- Bean: The Barn; Ivan dos Santos Typica; São Paulo, Brazil; Typica; natural
+- Grind: grain size 378.5
+- Ratio: 12 g coffee to 150 g water
+- Water temp: 92 C
+- Method: mini portable Aeropress
+- Timing: 1:50 steep; 25 seconds press
+- Stirring: none
+- Tasting notes: unknown
+- Outcome: updated working recipe with a lower water temperature and the latest grind-size instruction
+- Next adjustment: brew this version as-is first; if the cup turns too soft, go a touch finer next time to keep the plum and body while preserving the smooth finish
+- Highlight: no
+- Related entries: 2026-08-05 - The Barn - Ivan dos Santos Typica Recipe
+
 ### 2026-08-05 - The Barn - Ivan dos Santos Typica Recipe
 
 - Source: Telegram topic `Kaffeerezepte` / image
