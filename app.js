@@ -12,6 +12,7 @@ const nodes = {
   highlightCount: document.getElementById("highlightCount"),
   latestStamp: document.getElementById("latestStamp"),
   featureTitle: document.getElementById("featureTitle"),
+  featureOriginal: document.getElementById("featureOriginal"),
   featureSummary: document.getElementById("featureSummary"),
   featureRecipe: document.getElementById("featureRecipe"),
   featureGrind: document.getElementById("featureGrind"),
@@ -23,6 +24,30 @@ const nodes = {
   sortSelect: document.getElementById("sortSelect"),
   template: document.getElementById("entryTemplate"),
 };
+
+function getEnglishTitle(entry) {
+  const f = entry.fields;
+  return (
+    f["English title"] ||
+    f["English Title"] ||
+    f["English title (EN)"] ||
+    f["Recipe name"] ||
+    entry.headingLabel ||
+    entry.title
+  );
+}
+
+function getOriginalTitle(entry) {
+  const f = entry.fields;
+  return (
+    f["Original title"] ||
+    f["Original Title"] ||
+    f["Original text"] ||
+    f["Original Text"] ||
+    f["Original"] ||
+    ""
+  );
+}
 
 function parseMarkdown(markdown) {
   const lines = markdown.split(/\r?\n/);
@@ -174,7 +199,7 @@ function escapeHtml(value) {
 function cardText(entry) {
   const f = entry.fields;
   return [
-    `Title: ${entry.headingLabel}`,
+    `Title: ${getEnglishTitle(entry)}`,
     `Recipe: ${f["Recipe name"] || ""}`,
     `Bean: ${f.Bean || ""}`,
     `Grind: ${f.Grind || ""}`,
@@ -209,9 +234,11 @@ function renderCards(filtered) {
     const f = entry.fields;
     const highlight = (f.Highlight || "no").toLowerCase() === "yes";
     const type = f.Type || "other";
+    const englishTitle = getEnglishTitle(entry);
+    const originalTitle = getOriginalTitle(entry);
 
     node.querySelector(".card-date").textContent = formatDate(entry);
-    node.querySelector(".card-title").textContent = entry.headingLabel;
+    node.querySelector(".card-title").textContent = englishTitle;
     node.querySelector('[data-field="type"]').textContent = type;
     node.querySelector('[data-field="highlight"]').textContent = highlight ? "highlight" : "";
     node.querySelector('[data-field="highlight"]').style.display = highlight
@@ -233,6 +260,15 @@ function renderCards(filtered) {
 
     node.querySelector(".card-next").textContent =
       f["Next adjustment"] || "No next move recorded.";
+
+    const originalWrap = node.querySelector(".original-toggle");
+    const originalText = node.querySelector(".card-original");
+    if (originalTitle) {
+      originalText.textContent = originalTitle;
+      originalWrap.hidden = false;
+    } else {
+      originalWrap.hidden = true;
+    }
 
     node.querySelector(".copy-btn").addEventListener("click", async () => {
       await navigator.clipboard.writeText(cardText(entry));
@@ -257,6 +293,7 @@ function renderFeature() {
 
   if (!entry) {
     nodes.featureTitle.textContent = "No entries yet";
+    nodes.featureOriginal.hidden = true;
     nodes.featureSummary.textContent = "";
     nodes.featureRecipe.textContent = "--";
     nodes.featureGrind.textContent = "--";
@@ -265,7 +302,14 @@ function renderFeature() {
   }
 
   const f = entry.fields;
-  nodes.featureTitle.textContent = entry.headingLabel;
+  nodes.featureTitle.textContent = getEnglishTitle(entry);
+  const originalTitle = getOriginalTitle(entry);
+  if (originalTitle) {
+    nodes.featureOriginal.textContent = originalTitle;
+    nodes.featureOriginal.hidden = false;
+  } else {
+    nodes.featureOriginal.hidden = true;
+  }
   nodes.featureSummary.textContent =
     f.Outcome || f["Tasting notes"] || "Current reference cup.";
   nodes.featureRecipe.textContent = f["Recipe name"] || "unknown";

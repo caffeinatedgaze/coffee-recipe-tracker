@@ -266,6 +266,13 @@ h1 {
   margin-top: 0.5rem;
 }
 
+.original-text {
+  margin: 0.45rem 0 0;
+  color: var(--muted);
+  font-size: 0.95rem;
+  line-height: 1.45;
+}
+
 .feature-meta {
   display: grid;
   gap: 0.8rem;
@@ -382,6 +389,33 @@ h1 {
 .card-next {
   margin: 0;
   color: var(--text);
+}
+
+.original-toggle {
+  border: 1px solid rgba(244, 162, 97, 0.18);
+  border-radius: 16px;
+  padding: 0.7rem 0.8rem;
+  background: rgba(255, 255, 255, 0.02);
+}
+
+.original-toggle summary {
+  cursor: pointer;
+  color: var(--muted);
+  list-style: none;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  font-size: 0.72rem;
+  font-weight: 700;
+}
+
+.original-toggle summary::-webkit-details-marker {
+  display: none;
+}
+
+.card-original {
+  margin: 0.5rem 0 0;
+  color: var(--text);
+  line-height: 1.5;
 }
 
 .copy-btn {
