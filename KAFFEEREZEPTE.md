@@ -176,6 +176,25 @@ No entries yet.
 - Highlight: no
 - Related entries: 2026-08-05 - La Colina Washed Steep Adjustment
 
+### 2026-08-05 - La Colina Washed Conclusion Update
+
+- Source: Telegram topic `Kaffeerezepte` / voice transcript
+- Timestamp: 2026-08-05 16:38 local
+- Type: adjustment
+- Recipe name: La Colina Washed
+- Bean: La Colina; Guatemala; washed
+- Grind: Opus grinder setting 3.5
+- Ratio: 12 g coffee to 150 g water
+- Water temp: 91 C
+- Method: mini portable Aeropress
+- Timing: 2:05 steep; 30 seconds press
+- Stirring: one gentle stir only if it feels too thin
+- Tasting notes: very silky; smells like pickled tomatoes; may be underextracted
+- Outcome: the cup is clean and silky, but the finish may be a little underdone
+- Next adjustment: go 1 click finer first; if it still feels hollow, try 1 to 2 C hotter next time, but not both at once
+- Highlight: no
+- Related entries: 2026-08-05 - La Colina Washed Result; 2026-08-05 - La Colina Washed Steep Adjustment
+
 ### 2026-08-04 - The Barn - Kayon Mountain Recipe
 
 - Source: Telegram topic `Kaffeerezepte` / image
