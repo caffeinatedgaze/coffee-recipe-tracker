@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="Coffee recipe tracker with search, filters, highlights, and tweak history."
+    />
+    <title>Coffee Recipe Tracker</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="backdrop backdrop-a"></div>
+    <div class="backdrop backdrop-b"></div>
+
+    <main class="shell">
+      <section class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow">Coffee Tracker</p>
+          <h1>Recipe history with a proper UI.</h1>
+          <p class="lede">
+            Search the log, filter by recipe type, and jump straight to the
+            current highlight without scrolling through the whole tasting trail.
+          </p>
+          <div class="hero-actions">
+            <label class="search">
+              <span>Search</span>
+              <input
+                id="searchInput"
+                type="search"
+                placeholder="Bean, note, grind, method..."
+                autocomplete="off"
+              />
+            </label>
+            <label class="toggle">
+              <input id="highlightOnly" type="checkbox" />
+              <span>Highlights only</span>
+            </label>
+          </div>
+        </div>
+
+        <aside class="hero-panel">
+          <div class="panel-stat">
+            <span class="stat-label">Entries</span>
+            <strong id="entryCount">0</strong>
+          </div>
+          <div class="panel-stat">
+            <span class="stat-label">Highlights</span>
+            <strong id="highlightCount">0</strong>
+          </div>
+          <div class="panel-stat">
+            <span class="stat-label">Latest update</span>
+            <strong id="latestStamp">--</strong>
+          </div>
+          <p class="panel-note">
+            Static, GitHub Pages-friendly, and free to host on a normal public
+            repo.
+          </p>
+        </aside>
+      </section>
+
+      <section class="toolbar" aria-label="Filters">
+        <div id="filterBar" class="chips"></div>
+        <select id="sortSelect" class="sort">
+          <option value="newest">Newest first</option>
+          <option value="oldest">Oldest first</option>
+        </select>
+      </section>
+
+      <section class="feature">
+        <div class="feature-copy">
+          <p class="eyebrow">Current reference</p>
+          <h2 id="featureTitle">Loading...</h2>
+          <p id="featureSummary" class="feature-summary"></p>
+        </div>
+        <div class="feature-meta">
+          <div>
+            <span>Recipe</span>
+            <strong id="featureRecipe">--</strong>
+          </div>
+          <div>
+            <span>Grind</span>
+            <strong id="featureGrind">--</strong>
+          </div>
+          <div>
+            <span>Next move</span>
+            <strong id="featureNext">--</strong>
+          </div>
+        </div>
+      </section>
+
+      <section>
+        <div class="section-heading">
+          <h2>Entries</h2>
+          <p id="resultMeta">Loading...</p>
+        </div>
+        <div id="entries" class="grid"></div>
+      </section>
+    </main>
+
+    <template id="entryTemplate">
+      <article class="card">
+        <div class="card-top">
+          <div>
+            <p class="card-date"></p>
+            <h3 class="card-title"></h3>
+          </div>
+          <div class="badge-row">
+            <span class="badge" data-field="type"></span>
+            <span class="badge badge-highlight" data-field="highlight"></span>
+          </div>
+        </div>
+        <p class="card-summary"></p>
+        <dl class="facts"></dl>
+        <div class="callout">
+          <span>Next adjustment</span>
+          <p class="card-next"></p>
+        </div>
+        <button class="copy-btn" type="button">Copy card</button>
+      </article>
+    </template>
+
+    <script src="./app.js"></script>
+  </body>
+</html>
