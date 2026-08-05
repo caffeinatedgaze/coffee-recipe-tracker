@@ -138,6 +138,25 @@ No entries yet.
 - Highlight: no
 - Related entries: 2026-08-04 - The Barn - Kayon Mountain Recipe
 
+### 2026-08-05 - La Colina Washed Steep Adjustment
+
+- Source: Telegram topic `Kaffeerezepte` / voice transcript
+- Timestamp: 2026-08-05 16:24 local
+- Type: adjustment
+- Recipe name: La Colina Washed
+- Bean: La Colina; Guatemala; washed
+- Grind: Opus grinder setting 3.5
+- Ratio: 12 g coffee to 150 g water
+- Water temp: 91 C
+- Method: mini portable Aeropress
+- Timing: 2:05 steep; 30 seconds press
+- Stirring: one gentle stir only if it feels too thin
+- Tasting notes: unknown
+- Outcome: updated working recipe with a slightly longer steep while keeping the rest of the La Colina recipe unchanged
+- Next adjustment: wait for the cup and record the conclusion before changing anything else
+- Highlight: no
+- Related entries: none
+
 ### 2026-08-04 - The Barn - Kayon Mountain Recipe
 
 - Source: Telegram topic `Kaffeerezepte` / image
