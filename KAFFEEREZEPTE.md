@@ -488,6 +488,24 @@ No entries yet.
 - Highlight: no
 - Related entries: 2026-07-31 - Brew Result
 
+### 2026-08-06 - Brazilian Beans Context Correction
+
+- Source: Telegram topic `Kaffeerezepte` / voice transcript
+- Timestamp: 2026-08-06 16:39 local
+- Type: adjustment
+- Recipe name: Brazilian beans Aeropress
+- Bean: Brazilian beans
+- Grind: Opus grinder setting 3.5
+- Ratio: 12 g coffee to 140 g water
+- Water temp: 90 C
+- Method: mini portable Aeropress
+- Timing: 2:05 steep; 25 seconds press; no swirl
+- Tasting notes: user corrected that this discussion is about Brazilian beans, not the Guatemala La Colina cup
+- Outcome: separated the Brazilian baseline from the Guatemala recipe so future suggestions stay bean-specific
+- Next adjustment: keep the Brazilian baseline for now; if it still tastes thin, move one click finer or add a touch more heat, but do not carry over the Guatemala recipe unchanged
+- Highlight: no
+- Related entries: 2026-08-03 - Brazilian Beans Aeropress Update; 2026-07-31 - Aeropress Recipe
+
 ## Pattern Notes
 
 - Two brew sessions captured.
