@@ -100,6 +100,25 @@ No entries yet.
 - Highlight: no
 - Related entries: 2026-08-06 - The Barn - La Colina Washed Body Boost Adjustment; 2026-08-06 - The Barn - La Colina Washed Label Capture
 
+### 2026-08-06 - The Barn - Sundrop Recipe
+
+- Source: Telegram topic `Kaffeerezepte` / image
+- Timestamp: 2026-08-06 11:48 local
+- Type: recipe
+- Recipe name: The Barn - Sundrop
+- Bean: The Barn; Sundrop; Cerrado, Brazil; mixed varietals; natural
+- Grind: Opus grinder setting 3.75
+- Ratio: 12 g coffee to 150 g water
+- Water temp: 92 C
+- Method: mini portable Aeropress
+- Timing: 1:50 steep; 25 seconds press
+- Stirring: none
+- Tasting notes: fig; black tea; elegant; package label notes from the bag photo
+- Outcome: first-pass recipe for Sundrop based on the earlier Brazilian natural baseline, tuned to stay elegant and tea-like
+- Next adjustment: brew this version first; if it still feels a bit soft, go 1 click finer next time to add body without losing the black-tea line
+- Highlight: no
+- Related entries: 2026-08-05 - The Barn - Ivan dos Santos Typica Recipe; 2026-08-05 - The Barn - Ivan dos Santos Typica Highlight Result
+
 ### 2026-08-05 - The Barn - Ivan dos Santos Typica Highlight Result
 
 - Source: Telegram topic `Kaffeerezepte` / voice transcript
