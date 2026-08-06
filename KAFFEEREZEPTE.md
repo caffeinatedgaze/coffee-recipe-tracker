@@ -138,7 +138,7 @@ No entries yet.
 - Highlight: no
 - Related entries: 2026-08-06 - The Barn - La Colina Washed Press Tune; 2026-08-06 - The Barn - La Colina Washed German Note; 2026-08-06 - The Barn - La Colina Washed Body Boost Adjustment
 
-### 2026-08-06 - The Barn - La Colina Washed Cold Water Check
+### 2026-08-06 - The Barn - La Colina Washed Hot Water Check
 
 - Source: Telegram topic `Kaffeerezepte` / voice transcript
 - Timestamp: 2026-08-06 12:12 local
@@ -151,9 +151,9 @@ No entries yet.
 - Method: mini portable Aeropress
 - Timing: 2:05 steep; 20-30 seconds press
 - Stirring: no stirring
-- Tasting notes: user asked about using cold water
-- Outcome: cold water would likely push this already underextracted cup in the wrong direction
-- Next adjustment: keep the water hot; if it still reads thin, try 93 C before considering any colder brew water
+- Tasting notes: user clarified hotter water
+- Outcome: the fix should move in the hot direction, not colder, because the cup was underextracted
+- Next adjustment: keep the water hot; if it still reads thin, try 93 C before changing anything else
 - Highlight: no
 - Related entries: 2026-08-06 - The Barn - La Colina Washed Underextracted Result; 2026-08-06 - The Barn - La Colina Washed Press Tune
 
