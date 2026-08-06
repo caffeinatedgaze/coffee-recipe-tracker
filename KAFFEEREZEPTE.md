@@ -138,6 +138,25 @@ No entries yet.
 - Highlight: no
 - Related entries: 2026-08-06 - The Barn - La Colina Washed Press Tune; 2026-08-06 - The Barn - La Colina Washed German Note; 2026-08-06 - The Barn - La Colina Washed Body Boost Adjustment
 
+### 2026-08-06 - The Barn - La Colina Washed Cold Water Check
+
+- Source: Telegram topic `Kaffeerezepte` / voice transcript
+- Timestamp: 2026-08-06 12:12 local
+- Type: adjustment
+- Recipe name: The Barn - La Colina Washed
+- Bean: The Barn; La Colina Washed; Chimaltenango, Guatemala; Caturra; washed
+- Grind: Opus grinder setting 3.0
+- Ratio: 12 g coffee to 150 g water
+- Water temp: 92 C
+- Method: mini portable Aeropress
+- Timing: 2:05 steep; 20-30 seconds press
+- Stirring: no stirring
+- Tasting notes: user asked about using cold water
+- Outcome: cold water would likely push this already underextracted cup in the wrong direction
+- Next adjustment: keep the water hot; if it still reads thin, try 93 C before considering any colder brew water
+- Highlight: no
+- Related entries: 2026-08-06 - The Barn - La Colina Washed Underextracted Result; 2026-08-06 - The Barn - La Colina Washed Press Tune
+
 ### 2026-08-06 - The Barn - Sundrop Recipe
 
 - Source: Telegram topic `Kaffeerezepte` / image
