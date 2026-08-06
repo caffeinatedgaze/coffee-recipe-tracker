@@ -43,6 +43,25 @@ Working tracker for coffee recipes and brew results.
 
 No entries yet.
 
+### 2026-08-06 - The Barn - La Colina Washed Label Capture
+
+- Source: Telegram topic `Kaffeerezepte` / image
+- Timestamp: 2026-08-06 07:03 local
+- Type: adjustment
+- Recipe name: The Barn - La Colina Washed
+- Bean: The Barn; La Colina Washed; Chimaltenango, Guatemala; Caturra; washed
+- Grind: Opus grinder setting 3.5
+- Ratio: 12 g coffee to 150 g water
+- Water temp: 91 C
+- Method: mini portable Aeropress
+- Timing: 2:05 steep; 30 seconds press
+- Stirring: one gentle stir only if it feels too thin
+- Tasting notes: milk chocolate; pear; silky; package label notes from the bag photo
+- Outcome: package label captured for the current La Colina brew context; added the full origin and varietal detail from the photo
+- Next adjustment: keep the brew baseline unchanged; if the next cup still feels a bit hollow, go 1 click finer first
+- Highlight: no
+- Related entries: 2026-08-05 - La Colina Washed Conclusion Update; 2026-08-05 - La Colina Washed Result; 2026-08-05 - La Colina Washed Steep Adjustment
+
 ### 2026-08-05 - The Barn - Ivan dos Santos Typica Highlight Result
 
 - Source: Telegram topic `Kaffeerezepte` / voice transcript
