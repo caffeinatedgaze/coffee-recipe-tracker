@@ -69,7 +69,7 @@ No entries yet.
 - Type: adjustment
 - Recipe name: The Barn - La Colina Washed
 - Bean: The Barn; La Colina Washed; Chimaltenango, Guatemala; Caturra; washed
-- Grind: Opus grinder setting 3.0
+- Grind: Opus grinder setting 3.25
 - Ratio: 12 g coffee to 150 g water
 - Water temp: 91 C
 - Method: mini portable Aeropress
@@ -88,7 +88,7 @@ No entries yet.
 - Type: adjustment
 - Recipe name: The Barn - La Colina Washed
 - Bean: The Barn; La Colina Washed; Chimaltenango, Guatemala; Caturra; washed
-- Grind: Opus grinder setting 3.0
+- Grind: Opus grinder setting 3.25
 - Ratio: 12 g coffee to 150 g water
 - Water temp: 91 C
 - Method: mini portable Aeropress
