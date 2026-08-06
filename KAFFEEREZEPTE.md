@@ -506,6 +506,25 @@ No entries yet.
 - Highlight: no
 - Related entries: 2026-08-03 - Brazilian Beans Aeropress Update; 2026-07-31 - Aeropress Recipe
 
+### 2026-08-06 - The Barn - La Colina Washed Body Dose Bump
+
+- Source: Telegram topic `Kaffeerezepte` / voice transcript
+- Timestamp: 2026-08-06 16:47 local
+- Type: adjustment
+- Recipe name: The Barn - La Colina Washed
+- Bean: The Barn; La Colina Washed; Chimaltenango, Guatemala; Caturra; washed
+- Grind: Opus grinder setting 3.0
+- Ratio: 13 g coffee to 150 g water
+- Water temp: 93 C
+- Method: mini portable Aeropress
+- Timing: 2:05 steep; 20-30 seconds press
+- Stirring: no stirring
+- Tasting notes: user wants more body
+- Outcome: kept the hotter, finer underextraction fix and added a slightly larger dose to make the cup fuller and stronger
+- Next adjustment: brew this as the next body-focused version; if it still feels light, keep everything else fixed and only trim water a little or go one click finer on the following round
+- Highlight: no
+- Related entries: 2026-08-06 - The Barn - La Colina Washed Hot Water Check; 2026-08-06 - The Barn - La Colina Washed Underextracted Result
+
 ## Pattern Notes
 
 - Two brew sessions captured.
