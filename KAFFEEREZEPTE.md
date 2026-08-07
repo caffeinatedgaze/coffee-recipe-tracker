@@ -544,6 +544,25 @@ No entries yet.
 - Highlight: no
 - Related entries: 2026-08-06 - The Barn - La Colina Washed Hot Water Check; 2026-08-06 - The Barn - La Colina Washed Underextracted Result
 
+### 2026-08-07 - Guatemala Working Recipe Continuation
+
+- Source: Telegram topic `Kaffeerezepte` / voice transcript
+- Timestamp: 2026-08-07 07:57 local
+- Type: adjustment
+- Recipe name: Guatemala working recipe
+- Bean: Guatemala
+- Grind: Opus grinder setting 3.0
+- Ratio: 12 g coffee to 150 g water
+- Water temp: 95 C
+- Method: mini portable Aeropress
+- Timing: 1:50 steep; 30 seconds press
+- Stirring: no stirring
+- Tasting notes: conclusion improved body; continue from this recipe with Guatemala
+- Outcome: kept the Guatemala baseline as the active working recipe and carried it forward without changing the recipe
+- Next adjustment: use this as the reference cup; if the next result is still thin, go one click finer before changing dose or water
+- Highlight: no
+- Related entries: 2026-08-07 - Guatemala Working Recipe
+
 ## Pattern Notes
 
 - Two brew sessions captured.
