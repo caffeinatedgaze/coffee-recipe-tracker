@@ -176,6 +176,25 @@ No entries yet.
 - Highlight: no
 - Related entries: 2026-08-05 - The Barn - Ivan dos Santos Typica Recipe; 2026-08-05 - The Barn - Ivan dos Santos Typica Highlight Result
 
+### 2026-08-07 - The Barn - Sundrop New Recipe
+
+- Source: Telegram topic `Kaffeerezepte` / voice transcript
+- Timestamp: 2026-08-07 11:13 local
+- Type: recipe
+- Recipe name: The Barn - Sundrop
+- Bean: The Barn; Sundrop; Cerrado, Brazil; mixed varietals; natural
+- Grind: Opus grinder setting 3.0
+- Ratio: 13 g coffee to 150 g water
+- Water temp: 95 C
+- Method: mini portable Aeropress
+- Timing: 1:50 steep; 20 seconds press
+- Stirring: none
+- Tasting notes: expect 3
+- Outcome: new Sundrop recipe captured with a higher dose, finer grind, hotter water, and shorter press
+- Next adjustment: brew this as written first; if it feels too heavy, back the temperature down to 93 C next time to keep the fig and black-tea line cleaner
+- Highlight: no
+- Related entries: 2026-08-06 - The Barn - Sundrop Recipe
+
 ### 2026-08-05 - The Barn - Ivan dos Santos Typica Highlight Result
 
 - Source: Telegram topic `Kaffeerezepte` / voice transcript
