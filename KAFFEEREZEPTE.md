@@ -7,7 +7,8 @@ Working tracker for coffee recipes and brew results.
 - Capture every recipe or result as one entry.
 - Keep unknown fields as `unknown`; do not invent details.
 - Preserve the user's wording for tasting notes when useful, then add a short normalized outcome.
-- If a post updates a prior recipe, add a new dated result and cross-reference the recipe name.
+- If a post updates a prior recipe, add a new dated adjustment/result entry and cross-reference the recipe name.
+- When an adjustment exists for a bean, treat the most recent adjustment as the active recipe and keep the original recipe as historical context.
 - Always include a next adjustment recommendation from me first; if the user suggests one, keep it as optional secondary context instead of replacing mine.
 - On request, summarize patterns across bean, grind, ratio, water temp, method, timing, tasting notes, and outcomes.
 
@@ -171,16 +172,16 @@ No entries yet.
 - Timing: 1:50 steep; 25 seconds press
 - Stirring: none
 - Tasting notes: fig; black tea; elegant; package label notes from the bag photo
-- Outcome: first-pass recipe for Sundrop based on the earlier Brazilian natural baseline, tuned to stay elegant and tea-like
+- Outcome: first-pass recipe for Sundrop based on the earlier Brazilian natural baseline, tuned to stay elegant and tea-like; superseded by the 2026-08-07 adjustment
 - Next adjustment: brew this version first; if it still feels a bit soft, go 1 click finer next time to add body without losing the black-tea line
 - Highlight: no
-- Related entries: 2026-08-05 - The Barn - Ivan dos Santos Typica Recipe; 2026-08-05 - The Barn - Ivan dos Santos Typica Highlight Result
+- Related entries: 2026-08-07 - The Barn - Sundrop New Recipe; 2026-08-05 - The Barn - Ivan dos Santos Typica Recipe; 2026-08-05 - The Barn - Ivan dos Santos Typica Highlight Result
 
 ### 2026-08-07 - The Barn - Sundrop New Recipe
 
 - Source: Telegram topic `Kaffeerezepte` / voice transcript
 - Timestamp: 2026-08-07 11:13 local
-- Type: recipe
+- Type: adjustment
 - Recipe name: The Barn - Sundrop
 - Bean: The Barn; Sundrop; Cerrado, Brazil; mixed varietals; natural
 - Grind: Opus grinder setting 3.0
@@ -190,7 +191,7 @@ No entries yet.
 - Timing: 1:50 steep; 20 seconds press
 - Stirring: none
 - Tasting notes: expect 3
-- Outcome: new Sundrop recipe captured with a higher dose, finer grind, hotter water, and shorter press
+- Outcome: new Sundrop adjustment captured with a higher dose, finer grind, hotter water, and shorter press; this now overrides the original Sundrop recipe as the active baseline
 - Next adjustment: brew this as written first; if it feels too heavy, back the temperature down to 93 C next time to keep the fig and black-tea line cleaner
 - Highlight: no
 - Related entries: 2026-08-06 - The Barn - Sundrop Recipe
