@@ -583,6 +583,25 @@ No entries yet.
 - Highlight: no
 - Related entries: 2026-08-07 - Guatemala Working Recipe
 
+### 2026-08-09 - Guatemala Working Recipe Result
+
+- Source: Telegram topic `Kaffeerezepte` / voice transcript
+- Timestamp: 2026-08-09 09:52 local
+- Type: result
+- Recipe name: Guatemala working recipe
+- Bean: Guatemala
+- Grind: Opus grinder setting 3.5
+- Ratio: 13 g coffee to 150 g water
+- Water temp: 93 C
+- Method: mini portable Aeropress
+- Timing: 1:50 steep; 25 seconds press
+- Stirring: no stirring
+- Tasting notes: a little watery; likely underextracted; wants stronger body
+- Outcome: the cup is cleaner than heavy, but it needs more extraction and body
+- Next adjustment: keep everything the same and go one click finer to Opus grinder setting 3.25; that should add body and sweetness without losing clarity
+- Highlight: no
+- Related entries: 2026-08-07 - Guatemala Working Recipe; 2026-08-06 - The Barn - La Colina Washed Underextracted Result
+
 ## Pattern Notes
 
 - Two brew sessions captured.
