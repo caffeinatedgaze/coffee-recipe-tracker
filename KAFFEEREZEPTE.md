@@ -120,10 +120,10 @@ No entries yet.
 - Highlight: no
 - Related entries: 2026-08-06 - The Barn - La Colina Washed German Note; 2026-08-06 - The Barn - La Colina Washed Body Boost Adjustment
 
-### 2026-08-06 - The Barn - La Colina Washed Underextracted Result
+### 2026-08-06 - The Barn - La Colina Washed Result + Hot Water Check
 
 - Source: Telegram topic `Kaffeerezepte` / voice transcript
-- Timestamp: 2026-08-06 12:11 local
+- Timestamp: 2026-08-06 12:11-12:12 local
 - Type: result
 - Recipe name: The Barn - La Colina Washed
 - Bean: The Barn; La Colina Washed; Chimaltenango, Guatemala; Caturra; washed
@@ -133,30 +133,11 @@ No entries yet.
 - Method: mini portable Aeropress
 - Timing: 1:50 steep; 20 seconds press
 - Stirring: no stirring
-- Tasting notes: extremely underextracted
-- Outcome: this version pulled too little from the coffee and needs more extraction next round
-- Next adjustment: go one click finer to Opus 3.0 and keep the rest the same; if it still reads thin, extend the steep to 2:05 before changing anything else
+- Tasting notes: extremely underextracted; user clarified the fix should move hotter, not colder
+- Outcome: the 12:11 result and the 12:12 correction are one session; the cup needed more extraction, and the fix stayed in the hot direction rather than backing off
+- Next adjustment: keep the water hot, move to Opus 3.0, and extend the steep to 2:05 if it still reads thin before changing anything else
 - Highlight: no
 - Related entries: 2026-08-06 - The Barn - La Colina Washed Press Tune; 2026-08-06 - The Barn - La Colina Washed German Note; 2026-08-06 - The Barn - La Colina Washed Body Boost Adjustment
-
-### 2026-08-06 - The Barn - La Colina Washed Hot Water Check
-
-- Source: Telegram topic `Kaffeerezepte` / voice transcript
-- Timestamp: 2026-08-06 12:12 local
-- Type: adjustment
-- Recipe name: The Barn - La Colina Washed
-- Bean: The Barn; La Colina Washed; Chimaltenango, Guatemala; Caturra; washed
-- Grind: Opus grinder setting 3.0
-- Ratio: 12 g coffee to 150 g water
-- Water temp: 92 C
-- Method: mini portable Aeropress
-- Timing: 2:05 steep; 20-30 seconds press
-- Stirring: no stirring
-- Tasting notes: user clarified hotter water
-- Outcome: the fix should move in the hot direction, not colder, because the cup was underextracted
-- Next adjustment: keep the water hot; if it still reads thin, try 93 C before changing anything else
-- Highlight: no
-- Related entries: 2026-08-06 - The Barn - La Colina Washed Underextracted Result; 2026-08-06 - The Barn - La Colina Washed Press Tune
 
 ### 2026-08-06 - The Barn - Sundrop Recipe
 
@@ -213,31 +194,12 @@ No entries yet.
 - Outcome: highlight cup for these beans and this recipe; keep this as the reference version
 - Next adjustment: keep this recipe as-is unless a future cup drifts softer, then only fine-tune one variable at a time
 - Highlight: yes
-- Related entries: 2026-08-05 - The Barn - Ivan dos Santos Typica Steep Adjustment; 2026-08-05 - The Barn - Ivan dos Santos Typica Adjustment; 2026-08-05 - The Barn - Ivan dos Santos Typica Recipe
-
-### 2026-08-05 - The Barn - Ivan dos Santos Typica Steep Adjustment
-
-- Source: Telegram topic `Kaffeerezepte` / voice transcript
-- Timestamp: 2026-08-05 07:57 local
-- Type: adjustment
-- Recipe name: The Barn - Ivan dos Santos Typica
-- Bean: The Barn; Ivan dos Santos Typica; São Paulo, Brazil; Typica; natural
-- Grind: Opus grinder setting 3.75
-- Ratio: 12 g coffee to 150 g water
-- Water temp: 92 C
-- Method: mini portable Aeropress
-- Timing: 1:55 steep; 25 seconds press
-- Stirring: none
-- Tasting notes: unknown
-- Outcome: updated working recipe with a slightly longer steep for the Ivan dos Santos Typica
-- Next adjustment: try this version first; if it still reads a little soft, keep the press the same and nudge the grind slightly finer next time to add body and plum
-- Highlight: no
 - Related entries: 2026-08-05 - The Barn - Ivan dos Santos Typica Adjustment; 2026-08-05 - The Barn - Ivan dos Santos Typica Recipe
 
 ### 2026-08-05 - The Barn - Ivan dos Santos Typica Adjustment
 
 - Source: Telegram topic `Kaffeerezepte` / voice transcript
-- Timestamp: 2026-08-05 07:52 local
+- Timestamp: 2026-08-05 07:52-07:57 local
 - Type: adjustment
 - Recipe name: The Barn - Ivan dos Santos Typica
 - Bean: The Barn; Ivan dos Santos Typica; São Paulo, Brazil; Typica; natural
@@ -245,11 +207,11 @@ No entries yet.
 - Ratio: 12 g coffee to 150 g water
 - Water temp: 92 C
 - Method: mini portable Aeropress
-- Timing: 1:50 steep; 25 seconds press
+- Timing: 1:50-1:55 steep; 25 seconds press
 - Stirring: none
 - Tasting notes: unknown
-- Outcome: updated working recipe with a lower water temperature and the latest grind-size instruction
-- Next adjustment: brew this version as-is first; if the cup turns too soft, go a touch finer next time to keep the plum and body while preserving the smooth finish
+- Outcome: merged the base adjustment and the follow-up steep tweak into one session; the cup stayed smooth while settling on a slightly longer steep
+- Next adjustment: try this version first; if it still reads a little soft, keep the press the same and nudge the grind slightly finer next time to add body and plum
 - Highlight: no
 - Related entries: 2026-08-05 - The Barn - Ivan dos Santos Typica Recipe
 
@@ -543,12 +505,12 @@ No entries yet.
 - Outcome: kept the hotter, finer underextraction fix and added a slightly larger dose to make the cup fuller and stronger
 - Next adjustment: brew this as the next body-focused version; if it still feels light, keep everything else fixed and only trim water a little or go one click finer on the following round
 - Highlight: no
-- Related entries: 2026-08-06 - The Barn - La Colina Washed Hot Water Check; 2026-08-06 - The Barn - La Colina Washed Underextracted Result
+- Related entries: 2026-08-06 - The Barn - La Colina Washed Result + Hot Water Check
 
 ### 2026-08-07 - Guatemala Working Recipe
 
 - Source: Telegram topic `Kaffeerezepte` / voice transcript
-- Timestamp: 2026-08-07 07:53 local
+- Timestamp: 2026-08-07 07:53-07:57 local
 - Type: recipe
 - Recipe name: Guatemala working recipe
 - Bean: Guatemala
@@ -559,29 +521,10 @@ No entries yet.
 - Timing: 1:50 steep; 30 seconds press
 - Stirring: no stirring
 - Tasting notes: unknown
-- Outcome: saved the current Guatemala baseline with a hotter, slightly finer setup
+- Outcome: saved the current Guatemala baseline with a hotter, slightly finer setup; the 07:57 follow-up kept it as the active working recipe without changing the recipe
 - Next adjustment: brew this version first; if it still feels thin, keep the same setup and only go one click finer next time to build more body
 - Highlight: no
-- Related entries: 2026-08-06 - The Barn - La Colina Washed Hot Water Check; 2026-08-06 - The Barn - La Colina Washed Underextracted Result
-
-### 2026-08-07 - Guatemala Working Recipe Continuation
-
-- Source: Telegram topic `Kaffeerezepte` / voice transcript
-- Timestamp: 2026-08-07 07:57 local
-- Type: adjustment
-- Recipe name: Guatemala working recipe
-- Bean: Guatemala
-- Grind: Opus grinder setting 3.0
-- Ratio: 12 g coffee to 150 g water
-- Water temp: 95 C
-- Method: mini portable Aeropress
-- Timing: 1:50 steep; 30 seconds press
-- Stirring: no stirring
-- Tasting notes: conclusion improved body; continue from this recipe with Guatemala
-- Outcome: kept the Guatemala baseline as the active working recipe and carried it forward without changing the recipe
-- Next adjustment: use this as the reference cup; if the next result is still thin, go one click finer before changing dose or water
-- Highlight: no
-- Related entries: 2026-08-07 - Guatemala Working Recipe
+- Related entries: 2026-08-06 - The Barn - La Colina Washed Result + Hot Water Check
 
 ### 2026-08-09 - Guatemala Working Recipe Result
 
@@ -600,8 +543,8 @@ No entries yet.
 - Outcome: the cup is cleaner than heavy, but it needs more extraction and body
 - Next adjustment: keep everything the same and go one click finer to Opus grinder setting 3.25; that should add body and sweetness without losing clarity
 - Highlight: no
-- Related entries: 2026-08-07 - Guatemala Working Recipe; 2026-08-06 - The Barn - La Colina Washed Underextracted Result
+- Related entries: 2026-08-07 - Guatemala Working Recipe; 2026-08-06 - The Barn - La Colina Washed Result + Hot Water Check
 
 ## Pattern Notes
 
-- Two brew sessions captured.
+- Multiple brew sessions captured.
