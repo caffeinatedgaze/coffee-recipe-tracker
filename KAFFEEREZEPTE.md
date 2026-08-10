@@ -177,6 +177,25 @@ No entries yet.
 - Highlight: no
 - Related entries: 2026-08-06 - The Barn - Sundrop Recipe
 
+### 2026-08-10 - The Barn - Sundrop Press-Time Update
+
+- Source: Telegram topic `Kaffeerezepte` / voice transcript
+- Timestamp: 2026-08-10 07:45 local
+- Type: adjustment
+- Recipe name: The Barn - Sundrop
+- Bean: The Barn; Sundrop; Cerrado, Brazil; mixed varietals; natural
+- Grind: Opus grinder setting 3.0
+- Ratio: 13 g coffee to 150 g water
+- Water temp: 95 C
+- Method: mini portable Aeropress
+- Timing: 1:50 steep; 30 seconds press
+- Stirring: none
+- Tasting notes: pending conclusion
+- Outcome: same Sundrop baseline as the 2026-08-07 version, with the press extended to 30 seconds on this run
+- Next adjustment: wait for the brew conclusion; if the longer press turns muddy or heavy, shorten back to 20 seconds before changing grind or temperature
+- Highlight: no
+- Related entries: 2026-08-07 - The Barn - Sundrop New Recipe
+
 ### 2026-08-05 - The Barn - Ivan dos Santos Typica Highlight Result
 
 - Source: Telegram topic `Kaffeerezepte` / voice transcript
