@@ -181,7 +181,7 @@ No entries yet.
 
 - Source: Telegram topic `Kaffeerezepte` / voice transcript
 - Timestamp: 2026-08-10 07:45 local
-- Type: adjustment
+- Type: result
 - Recipe name: The Barn - Sundrop
 - Bean: The Barn; Sundrop; Cerrado, Brazil; mixed varietals; natural
 - Grind: Opus grinder setting 3.0
@@ -190,9 +190,9 @@ No entries yet.
 - Method: mini portable Aeropress
 - Timing: 1:50 steep; 30 seconds press
 - Stirring: none
-- Tasting notes: pending conclusion
-- Outcome: same Sundrop baseline as the 2026-08-07 version, with the press extended to 30 seconds on this run
-- Next adjustment: wait for the brew conclusion; if the longer press turns muddy or heavy, shorten back to 20 seconds before changing grind or temperature
+- Tasting notes: fairly pleasant; quite smooth; no bitter notes
+- Outcome: the 30-second press stayed clean and smooth, with no explicit bitterness
+- Next adjustment: keep this as the current baseline; only shorten the press back to 20 seconds if a later cup starts reading heavy or muddy
 - Highlight: no
 - Related entries: 2026-08-07 - The Barn - Sundrop New Recipe
 
