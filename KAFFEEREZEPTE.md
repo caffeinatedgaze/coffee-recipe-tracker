@@ -165,7 +165,7 @@ No entries yet.
 - Type: adjustment
 - Recipe name: The Barn - Sundrop
 - Bean: The Barn; Sundrop; Cerrado, Brazil; mixed varietals; natural
-- Grind: Opus grinder setting 3.0
+- Grind: Opus grinder setting 3.25
 - Ratio: 13 g coffee to 150 g water
 - Water temp: 95 C
 - Method: mini portable Aeropress
@@ -548,20 +548,20 @@ No entries yet.
 ### 2026-08-09 - Guatemala Working Recipe Result
 
 - Source: Telegram topic `Kaffeerezepte` / voice transcript
-- Timestamp: 2026-08-09 09:52 local
-- Type: result
+- Timestamp: 2026-08-09 09:52 local; follow-up 2026-08-16 12:23 local
+- Type: highlight result
 - Recipe name: Guatemala working recipe
 - Bean: Guatemala
-- Grind: Opus grinder setting 3.5
-- Ratio: 13 g coffee to 150 g water
-- Water temp: 93 C
+- Grind: Opus grinder setting 3.0
+- Ratio: 12 g coffee to 150 g water
+- Water temp: 95 C
 - Method: mini portable Aeropress
-- Timing: 1:50 steep; 25 seconds press
+- Timing: 1:55 steep; 25 seconds press
 - Stirring: no stirring
-- Tasting notes: a little watery; likely underextracted; wants stronger body
-- Outcome: the cup is cleaner than heavy, but it needs more extraction and body
-- Next adjustment: keep everything the same and go one click finer to Opus grinder setting 3.25; that should add body and sweetness without losing clarity
-- Highlight: no
+- Tasting notes: smooth but bright
+- Outcome: highlight cup for this Guatemala line; keep this as the reference version
+- Next adjustment: keep this recipe as-is; only fine-tune one variable if a future cup drifts softer or thinner
+- Highlight: yes
 - Related entries: 2026-08-07 - Guatemala Working Recipe; 2026-08-06 - The Barn - La Colina Washed Result + Hot Water Check
 
 ## Pattern Notes
