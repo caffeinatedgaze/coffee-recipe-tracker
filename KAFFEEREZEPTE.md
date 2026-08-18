@@ -51,7 +51,7 @@ No entries yet.
 - Type: recipe
 - Recipe name: Columbia Decaf
 - Bean: Columbia Decaf
-- Grind: Opus grinder setting 3.25
+- Grind: Opus grinder setting 4.5
 - Ratio: 12 g coffee to 150 g water
 - Water temp: 93 C
 - Method: mini portable Aeropress
