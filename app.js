@@ -14,7 +14,7 @@ const nodes = {
   featureTitle: document.getElementById("featureTitle"),
   featureOriginal: document.getElementById("featureOriginal"),
   featureSummary: document.getElementById("featureSummary"),
-  featureRecipe: document.getElementById("featureRecipe"),
+  featureType: document.getElementById("featureType"),
   featureGrind: document.getElementById("featureGrind"),
   featureNext: document.getElementById("featureNext"),
   resultMeta: document.getElementById("resultMeta"),
@@ -49,6 +49,13 @@ function getOriginalTitle(entry) {
   );
 }
 
+function normalizeType(raw) {
+  const value = String(raw || "").toLowerCase();
+  if (value.includes("recipe") && !value.includes("result")) return "recipe";
+  if (value.includes("adjustment") || value.includes("result")) return "adjustment";
+  return "adjustment";
+}
+
 function parseMarkdown(markdown) {
   const lines = markdown.split(/\r?\n/);
   const entries = [];
@@ -57,6 +64,7 @@ function parseMarkdown(markdown) {
   const finish = () => {
     if (!current) return;
     current.raw = current.buffer.join("\n").trim();
+    current.type = normalizeType(current.fields.Type);
     current.searchText = [
       current.title,
       current.headingDate,
@@ -72,6 +80,7 @@ function parseMarkdown(markdown) {
       current.fields["Next adjustment"],
       current.fields.Highlight,
       current.fields["Related entries"],
+      current.type,
     ]
       .filter(Boolean)
       .join(" ")
@@ -134,16 +143,14 @@ function parseStamp(entry) {
 function renderFilters() {
   const counts = new Map();
   for (const entry of state.entries) {
-    const type = (entry.fields.Type || "other").toLowerCase();
+    const type = entry.type;
     counts.set(type, (counts.get(type) || 0) + 1);
   }
 
   const chips = [
     { value: "all", label: `All (${state.entries.length})` },
-    ...Array.from(counts.entries()).map(([value, count]) => ({
-      value,
-      label: `${value} (${count})`,
-    })),
+    { value: "recipe", label: `Recipe (${counts.get("recipe") || 0})` },
+    { value: "adjustment", label: `Adjustment (${counts.get("adjustment") || 0})` },
   ];
 
   nodes.filterBar.innerHTML = "";
@@ -161,7 +168,7 @@ function renderFilters() {
 }
 
 function matches(entry) {
-  const type = (entry.fields.Type || "other").toLowerCase();
+  const type = entry.type;
   const highlight = (entry.fields.Highlight || "no").toLowerCase() === "yes";
   const typeOk = state.filter === "all" || state.filter === type;
   const highlightOk = !state.highlightOnly || highlight;
@@ -199,6 +206,7 @@ function escapeHtml(value) {
 function cardText(entry) {
   const f = entry.fields;
   return [
+    `Type: ${entry.type}`,
     `Title: ${getEnglishTitle(entry)}`,
     `Recipe: ${f["Recipe name"] || ""}`,
     `Bean: ${f.Bean || ""}`,
@@ -233,14 +241,15 @@ function renderCards(filtered) {
     const node = nodes.template.content.firstElementChild.cloneNode(true);
     const f = entry.fields;
     const highlight = (f.Highlight || "no").toLowerCase() === "yes";
-    const type = f.Type || "other";
+    const type = entry.type;
     const englishTitle = getEnglishTitle(entry);
     const originalTitle = getOriginalTitle(entry);
 
+    node.classList.toggle("card-highlight", highlight);
     node.querySelector(".card-date").textContent = formatDate(entry);
     node.querySelector(".card-title").textContent = englishTitle;
     node.querySelector('[data-field="type"]').textContent = type;
-    node.querySelector('[data-field="highlight"]').textContent = highlight ? "highlight" : "";
+    node.querySelector('[data-field="highlight"]').textContent = highlight ? "featured" : "";
     node.querySelector('[data-field="highlight"]').style.display = highlight
       ? "inline-flex"
       : "none";
@@ -251,6 +260,7 @@ function renderCards(filtered) {
     facts.innerHTML =
       factRow("Recipe", f["Recipe name"]) +
       factRow("Bean", f.Bean) +
+      factRow("Type", type) +
       factRow("Grind", f.Grind) +
       factRow("Ratio", f.Ratio) +
       factRow("Water", f["Water temp"]) +
@@ -295,7 +305,7 @@ function renderFeature() {
     nodes.featureTitle.textContent = "No entries yet";
     nodes.featureOriginal.hidden = true;
     nodes.featureSummary.textContent = "";
-    nodes.featureRecipe.textContent = "--";
+    nodes.featureType.textContent = "--";
     nodes.featureGrind.textContent = "--";
     nodes.featureNext.textContent = "--";
     return;
@@ -312,7 +322,7 @@ function renderFeature() {
   }
   nodes.featureSummary.textContent =
     f.Outcome || f["Tasting notes"] || "Current reference cup.";
-  nodes.featureRecipe.textContent = f["Recipe name"] || "unknown";
+  nodes.featureType.textContent = entry.type || "unknown";
   nodes.featureGrind.textContent = f.Grind || "unknown";
   nodes.featureNext.textContent = f["Next adjustment"] || "unknown";
 }

@@ -1,13 +1,13 @@
 # Kaffeerezepte Tracker
 
-Working tracker for coffee recipes and brew results.
+Working tracker for coffee recipes and brew adjustments.
 
 ## Capture Rules
 
-- Capture every recipe or result as one entry.
+- Capture every recipe or adjustment as one entry.
 - Keep unknown fields as `unknown`; do not invent details.
 - Preserve the user's wording for tasting notes when useful, then add a short normalized outcome.
-- If a post updates a prior recipe, add a new dated adjustment/result entry and cross-reference the recipe name.
+- If a post updates a prior recipe, add a new dated adjustment entry and cross-reference the recipe name.
 - When an adjustment exists for a bean, treat the most recent adjustment as the active recipe and keep the original recipe as historical context.
 - Always include a next adjustment recommendation from me first; if the user suggests one, keep it as optional secondary context instead of replacing mine.
 - On request, summarize patterns across bean, grind, ratio, water temp, method, timing, tasting notes, and outcomes.
@@ -26,7 +26,7 @@ Working tracker for coffee recipes and brew results.
 
 - Source: Telegram topic `Kaffeerezepte` / manual handoff
 - Timestamp: YYYY-MM-DD HH:MM local
-- Type: recipe | result | adjustment
+- Type: recipe | adjustment
 - Recipe name: unknown
 - Bean: unknown
 - Grind: unknown
