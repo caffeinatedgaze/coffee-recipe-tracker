@@ -11,10 +11,21 @@
     <link rel="stylesheet" href="./styles.css" />
   </head>
   <body>
-    <div class="backdrop backdrop-a"></div>
-    <div class="backdrop backdrop-b"></div>
-
     <main class="shell">
+      <header class="masthead" aria-label="Coffee tracker header">
+        <div class="masthead-brand">
+          <span class="brand-mark">cr</span>
+          <div>
+            <p>Matta-inspired</p>
+            <strong>Coffee Tracker</strong>
+          </div>
+        </div>
+        <div class="masthead-actions">
+          <span class="masthead-pill">Menu</span>
+          <span class="masthead-cta">Talk to us &rarr;</span>
+        </div>
+      </header>
+
       <section class="hero">
         <div class="hero-copy">
           <p class="eyebrow">Coffee Tracker</p>
@@ -41,6 +52,7 @@
         </div>
 
         <aside class="hero-panel">
+          <div class="hero-art" aria-hidden="true"></div>
           <div class="panel-stat">
             <span class="stat-label">Entries</span>
             <strong id="entryCount">0</strong>
