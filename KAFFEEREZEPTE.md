@@ -44,6 +44,25 @@ Working tracker for coffee recipes and brew results.
 
 No entries yet.
 
+### 2026-08-18 - El Salvador Pacamara 5335 Base Recipe
+
+- Source: Telegram topic `Kaffeerezepte` / chat handoff
+- Timestamp: 2026-08-18 08:18 local
+- Type: recipe
+- Recipe name: El Salvador Pacamara 5335
+- Bean: El Salvador Pacamara 5335
+- Grind: Opus grinder setting 3.25
+- Ratio: 12 g coffee to 150 g water
+- Water temp: 93 C
+- Method: mini portable Aeropress
+- Timing: 1:50 steep; 25 seconds press
+- Stirring: no stirring
+- Tasting notes: unknown
+- Outcome: saved the confirmed bean name as the current working baseline for this bag
+- Next adjustment: brew this as-is first; if it comes out sharp, go 1 click coarser or 1 C cooler next time
+- Highlight: no
+- Related entries: none
+
 ### 2026-08-06 - The Barn - La Colina Washed Label Capture
 
 - Source: Telegram topic `Kaffeerezepte` / image
