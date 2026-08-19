@@ -63,6 +63,24 @@ No entries yet.
 - Highlight: no
 - Related entries: none
 
+### 2026-08-19 - Columbia Decaf Clearer Adjustment
+
+- Source: Telegram topic `Kaffeerezepte` / voice transcript
+- Timestamp: 2026-08-19 21:18 local
+- Type: adjustment
+- Recipe name: Columbia Decaf
+- Bean: Columbia Decaf
+- Grind: Opus grinder setting 3.7
+- Ratio: 12 g coffee to 150 g water
+- Water temp: 84 C
+- Method: mini portable Aeropress
+- Timing: 1:30 steep; 30 seconds press
+- Tasting notes: much clearer taste; very little bitterness and smokiness
+- Outcome: cleaner cup than the base recipe, with the sharp edges mostly gone
+- Next adjustment: keep this as the current baseline; if you want to test for even more clarity, go 1 click coarser next time and keep everything else the same
+- Highlight: no
+- Related entries: 2026-08-18 - Columbia Decaf Base Recipe
+
 ### 2026-08-06 - The Barn - La Colina Washed Label Capture
 
 - Source: Telegram topic `Kaffeerezepte` / image
