@@ -601,6 +601,25 @@ No entries yet.
 - Highlight: yes
 - Related entries: 2026-08-07 - Guatemala Working Recipe; 2026-08-06 - The Barn - La Colina Washed Result + Hot Water Check
 
+### 2026-08-22 - Mini AeroPress Opus Test
+
+- Source: Telegram topic `Kaffeerezepte` / voice transcript
+- Timestamp: 2026-08-22 11:13 local
+- Type: adjustment
+- Recipe name: Mini AeroPress Opus Test
+- Bean: unknown
+- Grind: Opus grinder setting 4.5
+- Ratio: 12.5 g coffee to 150 g water
+- Water temp: 92 C
+- Method: mini portable Aeropress
+- Timing: 1:50 steep; 35 seconds press
+- Stirring: unknown
+- Tasting notes: a little bitter
+- Outcome: this test leaned a bit overextracted, so the next move should back extraction off slightly
+- Next adjustment: go 1 step coarser on Opus, keep 92 C and 1:50 the same, and shorten the press to 20-25 seconds
+- Highlight: no
+- Related entries: none
+
 ## Pattern Notes
 
 - Multiple brew sessions captured.
