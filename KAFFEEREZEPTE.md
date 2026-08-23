@@ -620,6 +620,45 @@ No entries yet.
 - Highlight: no
 - Related entries: none
 
+### 2026-08-22 - Ethiopia Mormotaro Mini AeroPress Baseline
+
+- Source: Telegram topic `Kaffeerezepte` / image + voice transcript
+- Timestamp: 2026-08-22 11:13 local
+- Type: recipe
+- Recipe name: Ethiopia Mormotaro
+- Bean: Ethiopia Mormotaro; Oromia Guji G1; Sidama; 1900-2350m; Heirloom; washed
+- Image: /Users/mikhailliamets/.openclaw/workspace/media/inbound/openclaw-staged-62f31369-33f0-41c5-a1b4-8f72ed4715c7/c7157c58-809d-4e66-82eb-2aec68de7de0.jpg
+- Grind: Opus grinder setting 4.5
+- Ratio: 12.5 g coffee to 150 g water
+- Water temp: 92 C
+- Method: mini portable Aeropress
+- Timing: 1:50 steep; 35 seconds press
+- Stirring: unknown
+- Tasting notes: a little bitter
+- Outcome: first logged baseline for this Ethiopia bag; the cup leaned a bit overextracted at 92 C
+- Next adjustment: go 1 step coarser on Opus, keep 92 C and 1:50 the same, and shorten the press to 20-25 seconds
+- Highlight: no
+- Related entries: none
+
+### 2026-08-23 - Ethiopia Mormotaro Cooler Adjustment
+
+- Source: Telegram topic `Kaffeerezepte` / voice transcript
+- Timestamp: 2026-08-23 15:53 local
+- Type: adjustment
+- Recipe name: Ethiopia Mormotaro
+- Bean: Ethiopia Mormotaro; Oromia Guji G1; Sidama; 1900-2350m; Heirloom; washed
+- Grind: Opus grinder setting 4.5
+- Ratio: 12.5 g coffee to 150 g water
+- Water temp: 88 C
+- Method: mini portable Aeropress
+- Timing: 1:45-1:50 steep; 20-25 seconds press
+- Stirring: unknown
+- Tasting notes: quite smokey in the aftertaste
+- Outcome: lowered temperature to calm the bitterness and keep the cup cleaner; smokiness still shows in the finish
+- Next adjustment: keep the grind at 4.5 for now; if the next cup still reads smoky or sharp, move one step coarser before changing temperature again
+- Highlight: no
+- Related entries: 2026-08-22 - Ethiopia Mormotaro Mini AeroPress Baseline
+
 ## Pattern Notes
 
 - Multiple brew sessions captured.
