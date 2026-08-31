@@ -61,6 +61,25 @@ Working tracker for coffee recipes and brew adjustments.
 - Highlight: no
 - Related entries: none
 
+### 2026-08-31 - The Barn - Guava Banana Origami Result
+
+- Source: Telegram topic `Kaffeerezepte` / voice transcript
+- Timestamp: 2026-08-31 08:56 local
+- Type: result
+- Recipe name: The Barn - Guava Banana
+- Bean: The Barn; Guava Banana; Tolima, Colombia; Caturra; anaerobic natural
+- Grind: Opus grinder setting 5.1
+- Ratio: 12 g coffee to 200 g water
+- Water temp: 93 C
+- Method: Origami dripper; paper filter
+- Timing: 0:35 bloom with 40 g; then pour to 120 g and 200 g total; drawdown unknown
+- Stirring: no swirling
+- Tasting notes: "this is the best taste of all of this"; guava; mango; vibrant
+- Outcome: current best-tasting Origami version for this bag; promoted to the reference recipe
+- Next adjustment: keep this as the baseline; only change one variable if the cup drifts
+- Highlight: yes
+- Related entries: 2026-08-27 - The Barn - Guava Banana Origami Base Recipe
+
 ### 2026-08-18 - Columbia Decaf Base Recipe
 
 - Source: Telegram topic `Kaffeerezepte` / chat handoff
