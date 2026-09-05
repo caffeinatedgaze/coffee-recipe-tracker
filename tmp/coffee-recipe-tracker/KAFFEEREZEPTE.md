@@ -695,6 +695,26 @@ Working tracker for coffee recipes and brew adjustments.
 - Highlight: no
 - Related entries: 2026-08-22 - Ethiopia Mormotaro Mini AeroPress Baseline
 
+### 2026-09-05 - The Barn - La Colina Natural Result
+
+- Source: Telegram topic `Kaffeerezepte` / voice transcript + image
+- Timestamp: 2026-09-05 11:30 local
+- Type: result
+- Recipe name: The Barn - La Colina Natural
+- Bean: The Barn; La Colina Natural; Chimaltenango, Guatemala; Caturra; natural
+- Image: /Users/mikhailliamets/.openclaw/workspace/media/inbound/openclaw-staged-4b240cc7-5c2d-4288-8a8f-ef79e3bbf0b5/f5de7b08-ee97-49c0-b649-19a8b05d4778.jpg
+- Grind: unknown
+- Ratio: unknown
+- Water temp: unknown
+- Method: unknown
+- Timing: unknown
+- Stirring: unknown
+- Tasting notes: dull; watery; zero acidity; "Papaya. Vanilla. Plush." from the bag label
+- Outcome: current brew read flat and underextracted, with no acidity showing
+- Next adjustment: go 1 click finer next time to add extraction and bring back sweetness and acidity without changing the rest yet
+- Highlight: no
+- Related entries: 2026-08-06 - The Barn - La Colina Washed Label Capture; 2026-08-06 - The Barn - La Colina Washed Body Boost Adjustment; 2026-08-06 - The Barn - La Colina Washed Press Tune
+
 ## Pattern Notes
 
 - Multiple brew sessions captured.
