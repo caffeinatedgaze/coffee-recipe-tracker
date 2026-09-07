@@ -659,6 +659,26 @@ No entries yet.
 - Highlight: no
 - Related entries: 2026-08-22 - Ethiopia Mormotaro Mini AeroPress Baseline
 
+### 2026-09-07 - The Barn - Volcan Azul Caturra Label Capture
+
+- Source: Telegram topic `Kaffeerezepte` / image
+- Timestamp: 2026-09-07 07:31 local
+- Type: recipe
+- Recipe name: The Barn - Volcan Azul Caturra
+- Bean: The Barn; Volcan Azul Caturra; West Valley, Costa Rica; Caturra; natural
+- Image: /Users/mikhailliamets/.openclaw/workspace/media/inbound/openclaw-staged-e08f0f9b-08f9-4d10-8c1d-17813b9f49dd/8df818a6-690e-4be2-b51f-73781b2fabd1.jpg
+- Grind: Opus grinder setting 3.75
+- Ratio: 12.5 g coffee to 150 g water
+- Water temp: 92 C
+- Method: mini portable Aeropress
+- Timing: 1:50 steep; 25 seconds press
+- Stirring: no stirring
+- Tasting notes: dried fig; vanilla; intense; package label notes from the bag photo
+- Outcome: first-pass recipe for a Costa Rica natural Caturra, kept moderate to avoid making the intense profile heavy or bitter
+- Next adjustment: brew this version first; if the cup is too dark or heavy, keep everything else fixed and lower temperature to 90 C next time
+- Highlight: no
+- Related entries: 2026-08-10 - The Barn - Sundrop Press-Time Update; 2026-08-05 - The Barn - Ivan dos Santos Typica Highlight Result
+
 ## Pattern Notes
 
 - Multiple brew sessions captured.
