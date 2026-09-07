@@ -679,6 +679,25 @@ No entries yet.
 - Highlight: no
 - Related entries: 2026-08-10 - The Barn - Sundrop Press-Time Update; 2026-08-05 - The Barn - Ivan dos Santos Typica Highlight Result
 
+### 2026-09-07 - The Barn - Volcan Azul Caturra Origami Starter
+
+- Source: Telegram topic `Kaffeerezepte` / manual handoff
+- Timestamp: 2026-09-07 07:35 local
+- Type: recipe
+- Recipe name: The Barn - Volcan Azul Caturra
+- Bean: The Barn; Volcan Azul Caturra; West Valley, Costa Rica; Caturra; natural
+- Grind: Opus grinder setting 3.9
+- Ratio: 12 g coffee to 180 g water
+- Water temp: 93 C
+- Method: Origami dripper; paper filter
+- Timing: 0:35 bloom; then pour to 120 g and 180 g; target drawdown 2:20-2:50
+- Stirring: no stirring; one gentle swirl after bloom only
+- Tasting notes: intense; dried fig; vanilla; package-label driven starting point
+- Outcome: first-pass Origami baseline for this bag, aiming for cleaner fruit and less body than the Aeropress version
+- Next adjustment: brew this first; if it lands too dark or heavy, keep everything fixed and drop only temperature to 90 C next time
+- Highlight: no
+- Related entries: 2026-09-07 - The Barn - Volcan Azul Caturra Label Capture
+
 ## Pattern Notes
 
 - Multiple brew sessions captured.
